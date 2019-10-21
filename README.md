@@ -2,7 +2,7 @@
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
 </h1>
 
-# Desafio-01 - Conceitos de NodeJS #
+# Desafio-01 **Conceitos de NodeJS* #
 <p>Primeiro desafio <strong>#Bootcamp9</strong> </br>
 - Criar uma aplicação para armazenar projetos e suas tarefas do zero utilizando Express.
 <br>
